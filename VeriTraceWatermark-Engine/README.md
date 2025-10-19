@@ -9,6 +9,7 @@
 在 Web 操作界面左上角输入原始图片，用户设置好保护强度，输出尺寸等参数后即可生成视觉不变的受保护的对抗样本。
 
 3.“溯真水印：AIGC 大模型训练图片的版权保护系统”版权保护效果展示图
-![image](https://github.com/13859/WatermarkVaccine_AIGC/blob/master/效果图.png)
+
+![image](https://github.com/Penglianfeng/VeriTraceWatermark-Engine/blob/main/VeriTraceWatermark-Engine/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 若使用未受保护的图片训练文生图大模型，输入相关提示词后即可生成右侧与训练图片画风和内容相似的图片，侵犯了原始图片的版权。若使用受保护的图片训练文生图大模型，无法生成画风与内容相似的图片，有效保护了图片的版权。
